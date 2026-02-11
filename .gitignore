@@ -1,0 +1,9 @@
+.DS_Store
+.env
+state/
+vendor/
+nanobot/config.json
+nanobot/workspace/reports/
+nanobot/workspace/traces/
+services/nano-sre-harness/node_modules/
+services/nano-sre-harness/dist/
