@@ -22,7 +22,7 @@ export function loadConfig(): AppConfig {
   const modelId =
     process.env.NANO_SRE_MODEL_ID || process.env.PI_MODEL_ID || "google/gemini-3-flash-preview";
   const thinking =
-    (process.env.NANO_SRE_THINKING_LEVEL || process.env.PI_THINKING_LEVEL || "off") as
+    (process.env.NANO_SRE_THINKING_LEVEL || process.env.PI_THINKING_LEVEL || "high") as
       | "off"
       | "low"
       | "medium"

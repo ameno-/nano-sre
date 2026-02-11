@@ -65,7 +65,7 @@ services:
       - OPENROUTER_API_KEY=${OPENROUTER_API_KEY:-}
       - NANO_SRE_PROVIDER=${NANO_SRE_PROVIDER:-openrouter}
       - NANO_SRE_MODEL_ID=${NANO_SRE_MODEL_ID:-google/gemini-3-flash-preview}
-      - NANO_SRE_THINKING_LEVEL=${NANO_SRE_THINKING_LEVEL:-off}
+      - NANO_SRE_THINKING_LEVEL=${NANO_SRE_THINKING_LEVEL:-high}
       - NANO_SRE_SERVICE_TOKEN=${NANO_SRE_SERVICE_TOKEN:-}
       - NANO_SRE_STORE_PATH=${NANO_SRE_STORE_PATH:-/tmp/nano-sre-store.json}
     depends_on:
