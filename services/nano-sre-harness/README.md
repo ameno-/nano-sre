@@ -19,7 +19,7 @@ High-power triage engine for `nano-sre`.
 - `KEEP_LOKI_PROVIDER_ID` (optional, required for log correlation)
 - `NANO_SRE_PROVIDER` (default `openrouter`)
 - `NANO_SRE_MODEL_ID` (default `google/gemini-3-flash-preview`)
-- `NANO_SRE_THINKING_LEVEL` (`off|low|medium|high`, default `off`)
+- `NANO_SRE_THINKING_LEVEL` (`off|low|medium|high`, default `high`)
 - `NANO_SRE_SERVICE_TOKEN` (optional)
 - `NANO_SRE_STORE_PATH` (default `/tmp/nano-sre-store.json`)
 
