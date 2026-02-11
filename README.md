@@ -41,6 +41,7 @@ You can run the stack with low cost or near-zero model cost by allowing OpenRout
 - `docs/ARCHITECTURE.md`: service map + sequence diagrams
 - `docs/DESIGN_PROCESS.md`: design journey, tradeoffs, and validation history
 - `docs/INITIAL_VALIDATION.md`: initial verification checklist and outcomes
+- `docs/PR_REVIEW_GUIDE.md`: review order + verification checklist for this release
 - `scripts/`: bootstrap/up/down helpers
 
 ## Quick Start (Local)
