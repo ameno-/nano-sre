@@ -42,6 +42,8 @@ You can run the stack with low cost or near-zero model cost by allowing OpenRout
 - `docs/DESIGN_PROCESS.md`: design journey, tradeoffs, and validation history
 - `docs/INITIAL_VALIDATION.md`: initial verification checklist and outcomes
 - `docs/PR_REVIEW_GUIDE.md`: review order + verification checklist for this release
+- `docs/ADDING_PROVIDERS.md`: step-by-step provider integration playbook (Loki-style)
+- `docs/prompts/ONE_SHOT_ADD_PROVIDER.md`: copy/paste one-shot implementation prompt
 - `scripts/`: bootstrap/up/down helpers
 
 ## Quick Start (Local)
